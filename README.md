@@ -21,7 +21,7 @@ Desde esta carpeta, ejecutar un servidor HTTP estático (por ejemplo `npx serve 
 
 El repositorio `pumac01/pumac01-web` ya está configurado para publicar desde la rama `main`, carpeta `/ (root)`. Para actualizar el sitio, subir los archivos modificados a esa rama; GitHub Pages volverá a publicar. Después, abrir la URL anterior y comprobar los cambios.
 
-Si se usa un dominio propio, configurar primero ese dominio en Pages; entonces añadir una URL canonical y generar `robots.txt` y `sitemap.xml` con el dominio definitivo.
+Si se usa un dominio propio, configurarlo primero en Pages y después actualizar la URL canonical y los metadatos sociales de `index.html`. También se pueden generar `robots.txt` y `sitemap.xml` con el dominio definitivo.
 
 ## Contacto
 
