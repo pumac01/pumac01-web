@@ -1,6 +1,6 @@
 # PUMAC-01
 
-Sitio estático de **PUMAC-01 — Puesto Unificado Móvil Autónomo de Comunicaciones**, proyecto impulsado por Ignacio García (**CD3IUF**).
+Sitio estático de **PUMAC-01 — Puesto Unificado Móvil Autónomo de Comunicaciones**, proyecto impulsado por Ignacio García (**CD3IUG**).
 
 **Sitio publicado:** https://pumac.cl/
 

@@ -3,7 +3,7 @@
 ## Contenido
 - [ ] PUMAC-01 escrito correctamente en todo el sitio.
 - [ ] Ignacio García escrito correctamente.
-- [ ] Indicativo **CD3IUF** escrito correctamente.
+- [ ] Indicativo **CD3IUG** escrito correctamente.
 - [ ] Se mantiene el propósito social/filantrópico.
 - [ ] No se presenta como producto comercial.
 - [ ] No se agregaron datos personales no autorizados.

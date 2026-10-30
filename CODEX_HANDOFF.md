@@ -6,7 +6,7 @@ Continuar el desarrollo del sitio web de PUMAC-01 y dejarlo listo para producci�
 ## Qué es PUMAC-01
 PUMAC-01 significa **Puesto Unificado Móvil Autónomo de Comunicaciones**.
 
-Es un proyecto desarrollado por el radioaficionado **Ignacio García — CD3IUF**. Consiste en una estación portátil de comunicaciones, transportable en mochila, de bajo costo y rápido despliegue. Puede complementarse con radios portátiles, baterías, panel solar, linterna y otros elementos de apoyo.
+Es un proyecto desarrollado por el radioaficionado **Ignacio García — CD3IUG**. Consiste en una estación portátil de comunicaciones, transportable en mochila, de bajo costo y rápido despliegue. Puede complementarse con radios portátiles, baterías, panel solar, linterna y otros elementos de apoyo.
 
 Su propósito principal es ayudar a conectar personas y comunidades aisladas o en zonas de difícil acceso con autoridades, centros de salud, equipos de emergencia o familiares, especialmente ante terremotos, incendios forestales y otras emergencias.
 
@@ -14,10 +14,10 @@ El proyecto tiene una orientación social y filantrópica. La intención de Igna
 
 ## Propietario / autor del proyecto
 - Ignacio García
-- Indicativo: **CD3IUF**
+- Indicativo: **CD3IUG**
 - Proyecto: PUMAC-01
 
-El indicativo CD3IUF debe mantenerse visible en la web, pero sin repetirse de forma excesiva. Actualmente aparece en portada, propósito y contacto.
+El indicativo CD3IUG debe mantenerse visible en la web, pero sin repetirse de forma excesiva. Actualmente aparece en portada, propósito y contacto.
 
 ## Estado actual
 El sitio es estático y no requiere framework ni proceso de compilación.
@@ -39,7 +39,7 @@ La versión actual ya incluye:
 - Sección de contacto.
 - Diseño responsive.
 - Menú móvil.
-- Indicativo CD3IUF.
+- Indicativo CD3IUG.
 - Corrección para que el logo PUMAC-01 se vea completo en la galería mediante `object-fit: contain`.
 
 ## Dirección visual
@@ -160,7 +160,7 @@ La web está lista para producción cuando:
 - no hay errores visibles ni de consola;
 - funciona correctamente en móvil y escritorio;
 - el logo PUMAC-01 nunca aparece cortado;
-- CD3IUF aparece correctamente escrito;
+- CD3IUG aparece correctamente escrito;
 - el propósito social queda claro en los primeros segundos de lectura;
 - las fotografías reales se ven nítidas;
 - el sitio carga rápido;
