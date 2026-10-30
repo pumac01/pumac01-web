@@ -2,7 +2,7 @@
 
 Sitio estático de **PUMAC-01 — Puesto Unificado Móvil Autónomo de Comunicaciones**, proyecto impulsado por Ignacio García (**CD3IUF**).
 
-**Sitio publicado:** https://pumac01.github.io/pumac01-web/
+**Sitio publicado:** https://pumac.cl/
 
 ## Abrir localmente
 
@@ -21,7 +21,7 @@ Desde esta carpeta, ejecutar un servidor HTTP estático (por ejemplo `npx serve 
 
 El repositorio `pumac01/pumac01-web` ya está configurado para publicar desde la rama `main`, carpeta `/ (root)`. Para actualizar el sitio, subir los archivos modificados a esa rama; GitHub Pages volverá a publicar. Después, abrir la URL anterior y comprobar los cambios.
 
-Si se usa un dominio propio, configurarlo primero en Pages y después actualizar la URL canonical y los metadatos sociales de `index.html`. También se pueden generar `robots.txt` y `sitemap.xml` con el dominio definitivo.
+El dominio propio `pumac.cl` está configurado en GitHub Pages. Sus registros DNS deben apuntar a GitHub Pages y mantenerse activos. La URL canonical y los metadatos sociales de `index.html` usan ese dominio.
 
 ## Contacto
 
