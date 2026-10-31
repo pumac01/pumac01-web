@@ -28,7 +28,7 @@ El dominio propio `pumac.cl` está configurado en GitHub Pages y tiene activada 
 El dominio está registrado en NIC Chile. Sus servidores DNS son `titan.ns.cloudflare.com` y `vera.ns.cloudflare.com`, administrados en la cuenta Cloudflare de PUMAC. Para que el sitio siga publicado:
 
 - Mantener los cuatro registros `A` de `pumac.cl` hacia `185.199.108.153`, `185.199.109.153`, `185.199.110.153` y `185.199.111.153`, todos como **DNS only**.
-- Mantener `www` como `CNAME` hacia `pumac01.github.io`, con el proxy de Cloudflare **activado**. La regla de Cloudflare `Redirigir www a pumac.cl con HTTPS` envía `http://www.pumac.cl` y `https://www.pumac.cl` a `https://pumac.cl`, conservando ruta y parámetros.
+- Mantener `www` como `CNAME` hacia `pumac01.github.io` en modo **DNS only**. GitHub Pages gestiona el certificado y la redirección de `www` a `pumac.cl`. La antigua regla de redirección en Cloudflare está desactivada.
 - Mantener el registro `TXT` `_github-pages-challenge-pumac01.pumac.cl`, que verifica el dominio en la cuenta GitHub `pumac01`.
 - Mantener el archivo `CNAME` con `pumac.cl` en la raíz del repositorio.
 
