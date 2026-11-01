@@ -16,6 +16,11 @@ Desde esta carpeta, ejecutar un servidor HTTP estático (por ejemplo `npx serve 
 - `assets/logo-pumac01-transparente.png`: logo original con el exterior transparente, usado por el sitio.
 - `assets/logo-pumac01.png`: logo original intacto.
 - `assets/equipo-pumac01.png`: foto del prototipo.
+- `assets/como-funciona.jpeg`: componentes del sistema en «Cómo funciona».
+- `assets/uso-en-chiloe-microfono-corregido.png`: imagen de vecinos en el sur, con el micrófono corregido, en «Un propósito mayor».
+- `assets/colega-de-ignacio.jpeg` y `assets/ignacio.jpeg`: imágenes del incendio y la montaña en «Proyecto real».
+
+Cuando Ignacio envíe primeros planos del radio y sus componentes, añadir una sección dedicada al equipo. Las imágenes actuales se usan para explicar contexto, operación y propósito.
 
 ## Publicar con GitHub Pages
 
